@@ -1,3 +1,3 @@
 #BirkertOS
 
-Scheduling and project management workflow portal designed around my workflow
+A Business Dashboard For the workflow of clients, projects and income coming into Birkert Technology. 
